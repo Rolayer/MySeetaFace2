@@ -27,6 +27,6 @@ bindata.dir=G://BaiduNetdiskDownload//bindata
 
 其中linux的执行环境相对复杂一点，需要搭建编译环境，具体流程见：https://my.oschina.net/u/1580184/blog/3042404 照着操作就行了。
 
-项目中未主项目中的某个模块，关于数据库中的操作部分，需要自己整合。
+项目为主项目中的某个模块，关于数据库中的操作部分，需要自己整合。
 
 
